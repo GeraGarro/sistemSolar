@@ -11,14 +11,18 @@ h1{text-align: center;
 }
 .Sol{font-size: 50px;
     font-family: Blackadder ITC;
-    color:rgba(120, 194, 236, 0.829);
+    color:rgba(105, 212, 72, 0.829);
+image-resolution: 50%;
+
 }
-h2{font-size: 35px;
+
+
+summary{font-size: 35px;
     font-family: Algerian;
     color:rgb(204, 206, 79);
 }
 
-h3{ font-size: 25px;
+li{ font-size: 25px;
     color:rgba(238, 216, 117, 0.842);
 
 }
